@@ -1,2 +1,2 @@
-# example-repo
-my first reposiroty
+# my-first-repository
+my first repository
